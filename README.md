@@ -9,14 +9,14 @@ This repository a REST API using the Flask Web Framework for managing users.To s
 4. Delete the user
 
 ## Clone The Repository 
-git clone https://github.com/adityamitra1/DataPeace_UsersAPI.git
-$ cd DataPeace_UsersAPI
+### git clone https://github.com/adityamitra1/DataPeace_UsersAPI.git
+### $ cd DataPeace_UsersAPI
 
 ## Create the virtualenv
-$ mkvirtualenv user-api
+### $ mkvirtualenv user-api
 
 ## Install dependencies
-$ pip install -r requirements.txt
+### $ pip install -r requirements.txt
 
 ## Run the app
-$ python app.py
+### $ python app.py
