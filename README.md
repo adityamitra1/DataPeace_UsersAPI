@@ -1,7 +1,7 @@
 # DataPeace_UsersAPI
 Users REST API using Flask Web Framework for Python
 
-This repository is a REST API developed using Flask Web Framework for managing users.To store user data I have used MySQL. The included features are:
+This repository is a REST API developed using Flask Web Framework for managing users. To store user data I have used MySQL. The included features are:
 
 1. It shows the list of users.
 2. It shows the detail of a user using userid.
